@@ -13,7 +13,7 @@ Each set of exercises should only be done **after** being directed to do so in t
 
 Clone this repository to your local machine. To do this, click on the green "Code" button at the top right of list of files and copy the link in the prompt. Then, run the following command in your terminal:
 
-    git clone <link>
+    git clone https://github.com/pro-utkarshM/learning-ruby.git
 
 This will create a folder called 'ruby-exercises' inside the directory you ran the command in.
 
